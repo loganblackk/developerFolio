@@ -32,8 +32,8 @@ const skillsSection = {
     "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
   ],
 
-/* Make Sure You include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+  /* Make Sure You include correct Font Awesome Classname to view your icon
+  https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -115,8 +115,8 @@ const techStack = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  githubConvertedToken: "ZGU2NTBiYzM2YWYyYjE0M2ExNDhhYWM3Yzg5ZDIxZjBjY2RiMTFhNw==",
+  githubUserName: "loganblackk"
 };
 
 
@@ -237,7 +237,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "twitter"//Replace "twitter" with your twitter username without @
-  
+  userName: "twitter"//Replace "twitter" with your twitter username without @
+
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo, twitterDetails };
